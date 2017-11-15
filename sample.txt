@@ -3,3 +3,6 @@ c++
 c
 php
 html
+sinhala
+english
+ 
